@@ -3,7 +3,7 @@
 
 ## ***Welcome to WOPR Systems!***
 * This is an interactive experience / simulation program meant to give new life to the story seen in Wargames (1983)
-It is currently fully developed and upkept by me. *
+It is currently fully developed and upkept by me.*
 
 
 ![dial menu](https://user-images.githubusercontent.com/58278360/203691794-95f27857-192d-484e-8636-78d5b47d7aa2.PNG)
@@ -15,13 +15,13 @@ It is currently fully developed and upkept by me. *
 
 > **Easter Eggs in reference to the movie.** ✅
 
-> ** Audio clips from the movie.** ✅
+> **Audio clips from the movie.** ✅
 
 > **Arrow-key-controlled maze game.** ✅
 
 > **ASCII art for game assets.** ✅
 
-> **Blackjack ✅
+> **Blackjack** ✅
 
 > **~~Gin Rummy~~** ⛔
 
