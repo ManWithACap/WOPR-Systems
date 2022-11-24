@@ -6,6 +6,10 @@
 It is currently fully developed and upkept by me.*
 
 
+## ***[Releases](https://github.com/ManWithACap/WOPR-Systems/releases)***
+
+
+
 ![dial menu](https://user-images.githubusercontent.com/58278360/203691794-95f27857-192d-484e-8636-78d5b47d7aa2.PNG)
 
 
