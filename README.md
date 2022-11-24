@@ -2,7 +2,7 @@
 ![title screen](https://user-images.githubusercontent.com/58278360/203690774-fada058b-4bb4-4119-a001-64b8912a7773.PNG)
 
 ## ***Welcome to WOPR Systems!***
-*This is an interactive experience / simulation program meant to give new life to the story seen in Wargames (1983)
+*This is an interactive experience / simulation program meant to give new life to the story seen in [Wargames (1983)](https://en.wikipedia.org/wiki/WarGames).
 It is currently fully developed and upkept by me.*
 
 
