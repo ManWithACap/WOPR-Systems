@@ -1,7 +1,7 @@
-**# WOPR Systems
+# **WOPR Systems**
 ![title screen](https://user-images.githubusercontent.com/58278360/203690774-fada058b-4bb4-4119-a001-64b8912a7773.PNG)
 
-**## Welcome to WOPR Systems!
+## ***Welcome to WOPR Systems!***
 * This is an interactive experience / simulation program meant to give new life to the story seen in Wargames (1983)
 It is currently fully developed and upkept by me. *
 
@@ -9,40 +9,40 @@ It is currently fully developed and upkept by me. *
 ![dial menu](https://user-images.githubusercontent.com/58278360/203691794-95f27857-192d-484e-8636-78d5b47d7aa2.PNG)
 
 
-**# Features
+# Features
 
 ![games list](https://user-images.githubusercontent.com/58278360/203691756-836502b8-8297-4c12-ae11-499a300a5a39.PNG)
 
-**> Easter Eggs in reference to the movie. ✅
+> **Easter Eggs in reference to the movie.** ✅
 
-**> Audio clips from the movie. ✅
+> ** Audio clips from the movie.** ✅
 
-**> Arrow-key-controlled maze game. ✅
+> **Arrow-key-controlled maze game.** ✅
 
-**> ASCII art for game assets. ✅
+> **ASCII art for game assets.** ✅
 
-**> Blackjack ✅
+> **Blackjack ✅
 
-**> ~~Gin Rummy~~ ⛔
+> **~~Gin Rummy~~** ⛔
 
-**> ~~Hearts~~ ⛔
+> **~~Hearts~~** ⛔
 
-**> ~~Checkers~~ ⛔
+> **~~Checkers~~** ⛔
 
-**> ~~Chess~~ ⛔
+> **~~Chess~~** ⛔
 
-**> ~~Poker~~ ⛔
+> **~~Poker~~** ⛔
 
-**> ~~Fighter Combat~~ ⛔
+> **~~Fighter Combat~~** ⛔
 
-**> ~~Air-To-Ground Actions~~ ⛔
+> **~~Air-To-Ground Actions~~** ⛔
 
-**> ~~Theaterwide Tactical Warfare~~ ⛔
+> **~~Theaterwide Tactical Warfare~~** ⛔
 
-**> ~~Global Thermonuclear War~~ ⛔
+> **~~Global Thermonuclear War~~** ⛔
 
 
-**#Full Screenshot Library
+# **Full Screenshot Library**
 ![title screen](https://user-images.githubusercontent.com/58278360/203691889-99cb99aa-891d-4470-b785-a2ac5c2a58b8.PNG)
 
 ![dial menu](https://user-images.githubusercontent.com/58278360/203691902-7fe7a4ca-5180-4505-81b9-559f34bea9b2.PNG)
